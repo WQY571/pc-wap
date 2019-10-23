@@ -1,0 +1,2 @@
+﻿文件下载网址  =>  文件保存路径
+http://www.offcn.com/zg/2020gkcjwt/images/zxb.png  =>  F:\软件\appdownload\仿站小工具 V3.0\www.offcn.com\images\zxb.png
